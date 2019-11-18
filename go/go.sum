@@ -34,6 +34,8 @@ github.com/k-tahiro/tahiremogon v0.0.0-20191117132753-ffa6870bce95 h1:iVqNmdBgJ2
 github.com/k-tahiro/tahiremogon v0.0.0-20191117132753-ffa6870bce95/go.mod h1:8G9L/uSMrcFZqXGMbaPIE4zWOF8X8t7kR8JgRz+ct6k=
 github.com/k-tahiro/tahiremogon v0.0.0-20191118131800-4c0f4930130d h1:8OaQQrXyQNnqHgKhd8JlLh8aIm3HoiOJjWYPgK1bhc4=
 github.com/k-tahiro/tahiremogon v0.0.0-20191118131800-4c0f4930130d/go.mod h1:8G9L/uSMrcFZqXGMbaPIE4zWOF8X8t7kR8JgRz+ct6k=
+github.com/k-tahiro/tahiremogon v0.0.0-20191118152039-4cbfdb4d1aa5 h1:avg8F3tGWMYcaz8GGRJU/jA4stYOfn1RIHAL5Q4KO2o=
+github.com/k-tahiro/tahiremogon v0.0.0-20191118152039-4cbfdb4d1aa5/go.mod h1:8G9L/uSMrcFZqXGMbaPIE4zWOF8X8t7kR8JgRz+ct6k=
 github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
