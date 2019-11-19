@@ -62,5 +62,5 @@ if __name__ == '__main__':
             print(probs[0])
             print(label)
 
-    for mode in {'off', 'on'}:
+    for mode in ['off', 'on']:
         run(mode)
