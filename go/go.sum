@@ -30,12 +30,8 @@ github.com/google/flatbuffers v1.11.0 h1:O7CEyB8Cb3/DmtxODGtLHcEvpr81Jm5qLg/hsHn
 github.com/google/flatbuffers v1.11.0/go.mod h1:1AeVuKshWv4vARoZatz6mlQ0JxURH0Kv5+zNeJKJCa8=
 github.com/jmoiron/sqlx v1.2.0/go.mod h1:1FEQNm3xlJgrMD+FBdI9+xvCksHtbpVBBw5dYhBSsks=
 github.com/jung-kurt/gofpdf v1.0.3-0.20190309125859-24315acbbda5/go.mod h1:7Id9E/uU8ce6rXgefFLlgrJj/GYY22cpxn+r32jIOes=
-github.com/k-tahiro/tahiremogon v0.0.0-20191117132753-ffa6870bce95 h1:iVqNmdBgJ2KAMbFsnbuV/rA1ocqR8z/Hp1QJ8tbGkig=
-github.com/k-tahiro/tahiremogon v0.0.0-20191117132753-ffa6870bce95/go.mod h1:8G9L/uSMrcFZqXGMbaPIE4zWOF8X8t7kR8JgRz+ct6k=
-github.com/k-tahiro/tahiremogon v0.0.0-20191118131800-4c0f4930130d h1:8OaQQrXyQNnqHgKhd8JlLh8aIm3HoiOJjWYPgK1bhc4=
-github.com/k-tahiro/tahiremogon v0.0.0-20191118131800-4c0f4930130d/go.mod h1:8G9L/uSMrcFZqXGMbaPIE4zWOF8X8t7kR8JgRz+ct6k=
-github.com/k-tahiro/tahiremogon v0.0.0-20191118152039-4cbfdb4d1aa5 h1:avg8F3tGWMYcaz8GGRJU/jA4stYOfn1RIHAL5Q4KO2o=
-github.com/k-tahiro/tahiremogon v0.0.0-20191118152039-4cbfdb4d1aa5/go.mod h1:8G9L/uSMrcFZqXGMbaPIE4zWOF8X8t7kR8JgRz+ct6k=
+github.com/k-tahiro/tahiremogon v0.0.0-20191119151613-49f4bf51f3a3 h1:azCCqaUHZWqb31Alx1YGZTub9Ug0BO+O5ZXk39ZlYK8=
+github.com/k-tahiro/tahiremogon v0.0.0-20191119151613-49f4bf51f3a3/go.mod h1:I/A2QjbmN3lBETM+lQjaqdCDmp4SeGlSpa53ZCt3pAs=
 github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
@@ -59,8 +55,9 @@ github.com/mattn/go-isatty v0.0.9 h1:d5US/mDsogSGW37IV293h//ZFaeajb69h+EHFsv2xGg
 github.com/mattn/go-isatty v0.0.9/go.mod h1:YNRxwqDuOph6SZLI9vUUz6OYw3QyUt7WiY2yME+cCiQ=
 github.com/mattn/go-runewidth v0.0.4/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
 github.com/mattn/go-sqlite3 v1.9.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
-github.com/mattn/go-sqlite3 v1.11.0 h1:LDdKkqtYlom37fkvqs8rMPFKAMe8+SgjbwZ6ex1/A/Q=
 github.com/mattn/go-sqlite3 v1.11.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/mattn/go-sqlite3 v1.12.0 h1:u/x3mp++qUxvYfulZ4HKOvVO0JWhk7HtE8lWhbGz/Do=
+github.com/mattn/go-sqlite3 v1.12.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
 github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 h1:zYyBkD/k9seD2A7fsi6Oo2LfFZAehjjQMERAvZLEDnQ=
 github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
 github.com/owulveryck/onnx-go v0.0.0-20191107131630-7767174e2322 h1:6fHy0IAvfKA2Z/IjBWrGruBR1lTyvz3hyHYlYIhrk08=
