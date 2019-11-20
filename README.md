@@ -4,8 +4,8 @@
 
 | Programming Language | Prediction Time (500 pictures) |
 | :------------------- | -----------------------------: |
-| Golang               |                                |
-| Python               |                                |
+| Golang               |                       35:53.63 |
+| Python               |                        1:59.32 |
 
 ## Raspberry Pi
 
